@@ -23,6 +23,9 @@ inside src , component folder contains components used in the app.
 
 -Wrapper is used to wrap Box component's width.
 
+## IMPORTANT
+When the timer goes off , use the email 'admin@gmail.com' to see the Live Feature . When the user enters the admin email , then user navigates to the Showcase live information card .
+
 
 # Getting Started with Create React App
 
